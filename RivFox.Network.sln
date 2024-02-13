@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RivFox.Network", "RivFox.Network.csproj", "{FDE9D824-882D-4ED1-8B09-34B14CB50929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE9D824-882D-4ED1-8B09-34B14CB50929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE9D824-882D-4ED1-8B09-34B14CB50929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE9D824-882D-4ED1-8B09-34B14CB50929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE9D824-882D-4ED1-8B09-34B14CB50929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74E58296-B2EA-4CFC-B699-33E67C90F072}
+	EndGlobalSection
+EndGlobal
