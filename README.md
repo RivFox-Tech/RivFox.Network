@@ -1,4 +1,4 @@
-﻿# RivFox ©2024 License: GNU General Public License v3.0 or later
+﻿# RivFox ©2024 License: MIT license
 Microsoft Translator is not necessarily 100% accurate <br>
 It's a fast, convenient, and simple HTTP request toolkit <br>
 We believe that POST requests should be used when sending large amounts of data, so we did not encapsulate the body for GET requests
