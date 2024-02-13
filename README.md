@@ -18,7 +18,7 @@ url: Request URL <br>
 *Optional <br>*
 bodys: Request body <br>
 headers: Request headers <br>
-cookie: Request Cookie <br>
+cookies: Request Cookie <br>
 *Status check <br>*
 online_bool(false):Network status <br>
 status_bool(false): Request status/code <br>
@@ -32,7 +32,7 @@ url: Request URL <br>
 *Optional <br>*
 bodys: Request body <br>
 headers: Request headers <br>
-cookie: Request Cookie <br>
+cookies: Request Cookie <br>
 *Status check <br>*
 online_bool(false):Network status <br>
 status_bool(false): Request status/code <br>
@@ -45,7 +45,7 @@ cookie_bool(false): Response cookie
 url: Request URL <br>
 *Optional <br>*
 headers: Request headers <br>
-cookie: Request Cookie <br>
+cookies: Request Cookie <br>
 *Status check <br>*
 online_bool(false): Network status <br>
 status_bool(false): Request status/code <br>
@@ -58,7 +58,7 @@ cookie_bool(false): Response cookie
 url: Request URL <br>
 *Optional <br>*
 headers: Request headers <br>
-cookie: Request Cookie <br>
+cookies: Request Cookie <br>
 *Status check <br>*
 online_bool(false): Network status <br>
 status_bool(false): Request status/code <br>
