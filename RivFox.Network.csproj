@@ -13,7 +13,7 @@
     <Title>RivFox.Network</Title>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>1.0.0</Version>
-    <PackageIcon>rivfox.network.png</PackageIcon>
+    <PackageIcon>RFCL.png</PackageIcon>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/RivFox-Tech/RivFox.Network</RepositoryUrl>
@@ -21,8 +21,16 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>portable</DebugType>
+  </PropertyGroup>
+
   <ItemGroup>
-    <None Include="C:\Users\farish\Downloads\rivfox.network.png">
+    <None Include="C:\Users\heliu\Pictures\Logo\RFCL.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
